@@ -1,1 +1,4 @@
 Checking the git ls-files command
+
+If you add a new file to the git repo folder, it will not be registered in git ls-files command
+Until you git add the file

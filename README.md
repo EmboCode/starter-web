@@ -9,7 +9,10 @@ Sample website with plenty of files for demos.
 ### Deployment
 Deploy now
 
-#### Conclusion
+#### Contribute
+Please fork this repository and then issue Pull Requests for review
 
-##### CopyRight
+##### Conclusion
+
+####### CopyRight
 2014 Git.Training

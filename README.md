@@ -10,3 +10,6 @@ Sample website with plenty of files for demos.
 Deploy now
 
 #### Conclusion
+
+##### CopyRight
+2014 Git.Training

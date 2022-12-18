@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Embo  Student 
 
 # THANKS
 
-    <name>
+    Embo
 
 # TECHNOLOGY COLOPHON
 
